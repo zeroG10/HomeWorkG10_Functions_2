@@ -1,8 +1,5 @@
 import random
-
-
 def find_argument():
-    # list_length = int(input())
     list_range = range(int(input('Enter the number of arguments in the list: ')))
     a = int(input('Start the generation with a number: '))
     b = int(input('Finish the generation on the number: '))
